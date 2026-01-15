@@ -1,0 +1,58 @@
+:root {
+  --md-primary-fg-color: #1F4FD8;      /* Azul faturamento */
+  --md-primary-fg-color--light: #4C7DFF;
+  --md-primary-fg-color--dark: #173DA8;
+
+  --md-accent-fg-color: #4C7DFF;
+}
+
+.md-typeset p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+
+.profile-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.profile-container img {
+  width: 180px;          
+  height: 180px;         
+  border-radius: 50%;
+  object-fit: cover; 
+  display: block;
+}
+
+.home-title {
+  text-align: center;
+}
+
+.gif-container-olist {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.gif-container-olist img {
+  max-width: 100%;
+  width: 900px;
+  border-radius: 8px;
+}
+
+/* Container do vídeo */
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+/* Estilo do vídeo */
+.video-doc {
+  width: 100%;
+  max-width: 900px;   /* ajuste fino */
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}

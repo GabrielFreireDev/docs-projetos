@@ -1,0 +1,49 @@
+site_name: Portfólio | Gabriel Freire
+site_description: Documentação técnica de projetos em Análise de Dados e Business Intelligence.
+site_url: https://gabrielfreiredev.github.io/docs-projetos/
+site_author: Gabriel Freire
+docs_dir: docs
+
+repo_name: gabrielfreire/docs-projetos
+repo_url: https://github.com/GabrielFreireDev/docs-projetos
+
+nav:
+  - Início: index.md
+  - Projetos:
+      - Power BI:
+          - E-commerce Olist: projetos/power-bi/ecommerce-olist.md
+
+theme:
+  name: material
+  language: pt-BR
+
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - navigation.instant
+    - content.code.copy
+    - content.external.links
+    - content.tabs.link
+    - search.highlight
+    - search.share
+
+extra_css:
+  - styles/custom.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
