@@ -57,7 +57,7 @@ Cada projeto segue uma estrutura padronizada abordando:
 ## Contato
 
 - LinkedIn: <a href="https://www.linkedin.com/in/gabriel-freire-171495ba/" target="_blank" rel="noopener">Gabriel Freire</a>
-- GitHub: <a href="https://github.com/GabrielFreireDev/GabrielFreireDev" target="_blank" rel="noopener">GabrielFreireDev</a>
+- GitHub: <a href="https://github.com/GabrielFreireDev" target="_blank" rel="noopener">GabrielFreireDev</a>
 
 
 

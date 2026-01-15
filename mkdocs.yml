@@ -18,9 +18,21 @@ theme:
   language: pt-BR
 
   palette:
+    # Modo claro
     - scheme: default
       primary: custom
       accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Alternar para modo escuro
+
+    # Modo escuro
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Alternar para modo claro
 
   font:
     text: Roboto
