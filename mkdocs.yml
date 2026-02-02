@@ -12,6 +12,7 @@ nav:
   - Projetos:
       - Power BI:
           - E-commerce Olist: projetos/power-bi/ecommerce-olist.md
+          - Xadrez em Números: projetos/power-bi/xadrez-em-numeros.md
 
 theme:
   name: material
