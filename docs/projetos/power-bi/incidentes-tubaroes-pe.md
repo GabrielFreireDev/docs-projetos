@@ -215,6 +215,8 @@ Todos os visuais (exceto os relacionados a eventos da natureza e o visual sinóp
 ---
 
 #### 2.5 Visualização e Dashboards
+O material disponibilizado pelo CEMIT junto com a base de dados já consta com alguns visuais em um relatório PDF e eles foram incorporados no projeto. 
+
 O relatório foi estruturado em **dois dashboards principais** e todo design foi criado no Figma:
 
 ---
