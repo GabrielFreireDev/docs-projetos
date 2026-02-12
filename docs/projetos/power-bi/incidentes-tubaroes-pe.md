@@ -301,7 +301,7 @@ Foram utilizados visuais não nativos do Power BI:
 O Synoptic Panel foi utilizado para construção do mapa vetorial customizado do litoral pernambucano, permitindo interação direta com as cidades e o mapeamento númerico das áreas foi realizado para fins de identifiação do próprio visual.
 
 !!! warning "Atenção"
-    Como o visual Synoptic Panel precisa de pagamento de licença para utilização comercial, dessa forma no relatório público do Power BI não aparecerá. Portanto, foi colocado por cima um visual de imagem com uma captura de tela para ficar como exemplo e **não será possível visualizar de forma dinâmica pelos filtros**.
+    O visual Synoptic Panel precisa de pagamento de licença para utilização comercial, dessa forma no relatório público do Power BI não aparecerá. Portanto, foi colocado por cima um visual de imagem com uma captura de tela para ficar como exemplo e **não será possível visualizar de forma dinâmica pelos filtros**.
 
 ---
 
