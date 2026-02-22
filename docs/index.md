@@ -7,12 +7,11 @@
 
 ## Sobre mim
 
-Analista de Dados em transição de carreira com foco em **Power BI, SQL e Python**, atuando em projetos de
-análise descritiva, modelagem de dados e visualização orientada a negócio.
+Sou um profissional motivado por ambientes onde análise, organização da informação e tomada de decisão fazem parte do dia a dia.Nos últimos meses, venho direcionando meus estudos e projetos para Análise de Dados e Business Intelligence, desenvolvendo soluções com Power BI, SQL e Python, sempre com foco em entender o contexto do negócio, estruturar dados e comunicar resultados de forma clara.
 
-Este site reúne a documentação dos projetos que desenvolvi ao longo da minha formação e prática em Análise de Dados.
+Este site reúne a documentação dos projetos que desenvolvi ao longo da minha formação em Análise de Dados pela Xperiun Data Analytics.
 
-Os projetos aqui apresentados têm caráter **educacional e de portfólio**, utilizando dados públicos ou simulados, com foco em boas práticas de análise, modelagem e storytelling com dados.
+Os projetos aqui apresentados têm caráter **educacional e de portfólio**, utilizando dados públicos ou simulados, com foco em boas práticas de análise, modelagem e storytelling com dados a afim de demosntrar minhas competências análiticas e utilizar a tecnologia da informação para extração de insights e evolução de processos.
 
 
 ## Estrutura dos projetos
