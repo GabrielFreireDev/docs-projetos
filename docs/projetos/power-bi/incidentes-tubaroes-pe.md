@@ -78,7 +78,7 @@ O escopo contempla:
 
 - Métrica de letalidade associada aos incidentes
 
-- Visualização geográfica customizada
+- Visualização geográfica
 
 - Organização das análicas em dois dashboards principais
 
@@ -275,7 +275,7 @@ Filtros disponíveis:
 
 Contém dois visuais principais:
 
-1. **Gráfico sinóptico customizado com as cidades do litoral de Pernambuco**
+1. **Gráfico xom mapa**
 
 2. **Matriz detalhada** permitindo análise por:
 
@@ -291,17 +291,13 @@ Essa visão permite aprofundamento geográfico e detalhamento granular dos incid
 ---
 
 ##### 2.6 Visuais Customizados
-Foram utilizados visuais não nativos do Power BI:
+Foi utilizado um visual não nativos do Power BI:
 
 - **HTML Content**
 
-- **Synoptic Panel by OkVIZ**
 
 
-O Synoptic Panel foi utilizado para construção do mapa vetorial customizado do litoral pernambucano, permitindo interação direta com as cidades e o mapeamento númerico das áreas foi realizado para fins de identifiação do próprio visual.
-
-!!! warning "Atenção"
-    O visual Synoptic Panel precisa de pagamento de licença para utilização comercial, dessa forma no relatório público do Power BI não aparecerá. Portanto, foi colocado por cima um visual de imagem com uma captura de tela para ficar como exemplo e **não será possível visualizar de forma dinâmica pelos filtros**.
+Como se trata de um visual não nativo, não é possível atribuir um tooltip como ocorre nos outros gráficos.
 
 ---
 
