@@ -11,6 +11,7 @@ nav:
   - Início: index.md
   - Projetos:
       - Power BI:
+          - Acidentes de trânsito em Recife: projetos/power-bi/acidentes-transito-recife.md
           - Incidentes com Tubarões em PE: projetos/power-bi/incidentes-tubaroes-pe.md
           - E-commerce Olist: projetos/power-bi/ecommerce-olist.md
           - Xadrez em Números: projetos/power-bi/xadrez-em-numeros.md
